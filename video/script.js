@@ -1,0 +1,1 @@
+alert("welcome to maahi bhai's web dev course")
